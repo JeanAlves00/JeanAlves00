@@ -2,7 +2,7 @@
 
 Uma ano de esperiencia no desenvolvimento de projetos e afins<br/><br/>
 
-##Detalhes
+## Detalhes
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JeanAlves00" />
