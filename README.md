@@ -8,7 +8,7 @@
 </a>
 
 
-###Tecnologias mais usadas no meu dia a dia
+## Tecnologias mais usadas no meu dia a dia
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
@@ -17,4 +17,8 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="html5" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-</div>
+</div><br/><br/>
+
+Um apaixonado por tecnologia e afins
+
+
