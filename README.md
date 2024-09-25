@@ -23,6 +23,6 @@ Uma ano de esperiencia no desenvolvimento de projetos e afins<br/><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </div><br/><br/>
 
-Um apaixonado por tecnologia e afins
+Um apaixonado por tecnologia
 
 
