@@ -1,6 +1,6 @@
 ### Olá! Meu nome e Jean 🖖 <br/><br/>
 
-Uma ano de esperiencia no desenvolvimento de projetos e afins<br/><br/>
+Uma ano de experiencia no desenvolvimento de projetos e afins<br/><br/>
 
 ## Detalhes
 
