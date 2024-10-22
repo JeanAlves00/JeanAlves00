@@ -4,10 +4,10 @@ Uma ano de experiencia no desenvolvimento de projetos e afins<br/><br/>
 
 ## Detalhes
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a >
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JeanAlves00" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JeanAlves00&layout=compact&langs_count=8&card_width=320" />
 </a>
 
